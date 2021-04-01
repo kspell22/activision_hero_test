@@ -1,0 +1,9 @@
+.hero-image {
+  background-image: url("/Hero_img_mobile_01.jpg");
+  background-color: #cccccc;
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
